@@ -13,6 +13,6 @@ such images, namely CIFAR-10 and STL-10.
 
 ## Contents:
 * pegasus-paper.pdf - Paper reporting findings and methodology of the study.
-* source-code/ - Folder containing the herein modified version of lucidrains' implementation of 'lightweight' GAN proposed in ICLR 2021. Credits for paper and code go to :
+* source-code/ - Folder containing the herein modified version of lucidrains' implementation of state-of-the-art 'lightweight' GAN proposed in ICLR 2021. Credits for paper and code go to :
     - 'lightweight' GAN paper - [Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis](https://openreview.net/forum?id=1Fqg133qRaI).
     - [lucidrains](https://github.com/lucidrains/)' original implementation - https://github.com/lucidrains/lightweight-gan.
