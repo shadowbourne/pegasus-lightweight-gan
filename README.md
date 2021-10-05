@@ -1,4 +1,4 @@
-# Generative Modelling: Applying GANs to generate out-of-sample inter-class images
+# Generative Modelling: Applying GANs to generate out-of-sample inter-class images of Pegasi - "The Mythical Pegasus: A Mysterious Journey"
 Submitted as part of the degree of Msci Natural Sciences (3rd year) to the Board of Examiners in the Department of Computer Sciences, Durham University. 
 This summative assignment was assessed and marked by the professor of the module in question:
 ## Grade: 1st - 104/100 (100 + bonus of 4)
