@@ -2,6 +2,15 @@
 Submitted as part of the degree of Msci Natural Sciences (3rd year) to the Board of Examiners in the Department of Computer Sciences, Durham University. 
 This summative assignment was assessed and marked by the professor of the module in question:
 ## Grade: 1st - 104/100 (100 + bonus of 4)
+> "This solution is outstanding as you’ve implemented the most relevent recent state-of-the-art model and
+> adopted it for the task. The model samples are amongst the best in the class - i’ve used several of them as
+> exemplars in the general feedback. The way you approached sampling the data is exactly what professionals
+> do in the field. The report is also extremely well-written and presented.
+> Overall, this is a fantastic piece of academic writing, scientific experimentation, independent research, and countless
+> hours of GPU training and shows an unexpected mastery of deep learning (and reinforcement learning) for
+> an undergraduate. This must clearly be your passion, and all I can say is I hope you keep doing this in your
+> career! Perfect!" - Dr Chris G. Willcocks
+
 ## Paper Abstract:
 After successfully implementing and experimenting with two flow-based
 generative models [1], namely Glow [6] and the multi-scale augmented normalizing flow proposed in [9], and various variational autoencoder (VAE)
