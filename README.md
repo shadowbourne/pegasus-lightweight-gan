@@ -1,7 +1,7 @@
 # Generative Modelling: Applying GANs to generate out-of-sample inter-class images
 Submitted as part of the degree of Msci Natural Sciences (3rd year) to the Board of Examiners in the Department of Computer Sciences, Durham University. 
 This summative assignment was assessed and marked by the professor of the module in question:
-## Grade: 1st - 104/100 (100 + bonus of 4), 1st in year.
+## Grade: 1st - 104/100 (100 + bonus of 4), 1st in year (of 136 students).
 > "This solution is outstanding as you’ve implemented the most relevent recent state-of-the-art model and
 > adopted it for the task. The model samples are amongst the best in the class - i’ve used several of them as
 > exemplars in the general feedback. The way you approached sampling the data is exactly what professionals
